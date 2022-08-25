@@ -31,4 +31,4 @@ This solo project created a flash card simulation that was playable through the 
 ## Technologies
   - Javascript
   - Mocha/Chai
-  -TDD
+  - TDD
