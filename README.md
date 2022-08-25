@@ -19,6 +19,7 @@ This solo project created a flash card simulation that was playable through the 
 
 ## Screenshots
 
+<iframe src="https://giphy.com/embed/HpuhDnqLh5MosmlpOx" width="480" height="306" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HpuhDnqLh5MosmlpOx">via GIPHY</a></p>
 
 ## Contributors
 - [Hazel Pablo](https://github.com/Hpablo08?tab=repositories)
