@@ -19,7 +19,11 @@ This solo project created a flash card simulation that was playable through the 
 
 ## Screenshots
 
-<iframe src="https://giphy.com/embed/HpuhDnqLh5MosmlpOx" width="480" height="306" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HpuhDnqLh5MosmlpOx">via GIPHY</a></p>
+<p align="center">Functionality</br>
+  <img width="460" height="300" src="assets/DesktopViewTour.gif" alt="Gif of application performing various functional actions">
+</p><p align="center"><img width="500" src="assets/giphy-1.gif" alt="Additional gif of application performing various functional actions">
+</p>
+
 
 ## Contributors
 - [Hazel Pablo](https://github.com/Hpablo08?tab=repositories)
